@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "DETERMINATION-Sans",
+    "previewText": "The insufferable amount of pain you went through doing this fills you with determination.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "ggsans-Bold": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "ggsans-BoldItalic": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "ggsans-ExtraBold": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "ggsans-ExtraBoldItalic": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "ggsans-Medium": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "ggsans-MediumItalic": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "ggsans-Normal": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "ggsans-NormalItalic": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "ggsans-Semibold": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "ggsans-SemiboldItalic": "l",
+        "NotoSans-Bold": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "NotoSans-ExtraBold": "l",
+        "NotoSans-Medium": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "NotoSans-Normal": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "NotoSans-NormalItalic": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "NotoSans-Semibold": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf",
+        "SourceCodePro-Semibold": "https://github.com/yurijmi/Determination/raw/master/Determination-Regular.otf"
+    }
+}
